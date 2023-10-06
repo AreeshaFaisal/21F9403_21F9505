@@ -95,5 +95,7 @@ public class Calculator extends Frame implements ActionListener {
 		cal.setVisible(true); // it is important
 		cal.setLocation(300,300);
 	}
+	//NEW TASK ADDED FOR TASK 5
+	//KINDLY CHECK ADDED FUNC HERE :)
 
 }
